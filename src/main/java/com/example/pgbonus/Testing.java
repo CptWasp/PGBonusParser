@@ -19,8 +19,7 @@ public class Testing {
     public String token = "3acf9af04242c0822c7f3dc9061cfe1bd24664b22992f2c68569f009c467fae53b69e9b268488f8f91ca1";
     public String user_id="411465182";
 
-//    public String token = "1ad89e086d9203386caa96954e843be707d9415ed54451b04f6fbe2bdbb5d6ff41da64fa42ee3e54f5aa6";
-//    public String user_id="144970652";
+
 
 
     public static void main(String[] args)throws InterruptedException{
